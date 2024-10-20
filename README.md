@@ -187,3 +187,37 @@ Explore our online sales analysis project in-depth with our interactive data vis
 
 ---
 
+### Getting Started
+Prerequisites:
+-	SQL Server Management Studio: Used for managing and querying the database, as well as for data processing and analysis.
+-	Power BI: Utilized for creating and viewing dashboards.
+
+Installation and Setup
+1.	Clone the Repository:
+    ```bash
+    https://github.com/Zhiweikau/Ecommerce_Sales_Data_Analysis/tree/main
+    ```
+  	
+2.	Database Setup:
+-	Import the online sales data from the [CSV file](Datasets) into SQL and create the database.
+-	Execute the provided [SQL](https://github.com/Zhiweikau/Ecommerce_Sales_Data_Analysis/blob/main/SQL/Check%20Data%20Structure%20and%20Merge%20Data.sql) in SQL Server Management Studio to set up the database structure, including tables, columns, and relationships.
+
+3.	KPI and Chart Calculation:
+-	Calculate key metrics value by [SQL](https://github.com/Zhiweikau/Ecommerce_Sales_Data_Analysis/blob/main/SQL/KPI%20and%20Chart%20Requirement.sql)
+
+4.	Power BI Setup:
+-	Launch the provided [Power BI](https://github.com/Zhiweikau/Ecommerce_Sales_Data_Analysis/tree/main/Power%20BI)
+-	Connect the Power BI file to your SQL Server database.
+
+---
+
+### Conclusion
+The analysis of Madhav Ecommerce’s sales data conducted using SQL for data extraction and Power BI for visualization, which has provided valuable insights into the company’s sales performance, customer preferences, and category profitability. SQL was utilized to efficiently query and aggregate the sales data, ensuring accurate and comprehensive insights into various dimensions of the business. Power BI further enhanced the analysis by enabling interactive visualizations that highlighted key trends, such as peak sales activity and profitability across different product categories.
+
+Overall, this data project was leveraging the capabilities of SQL and Power BI, effectively identifies trends, strengths, and areas for improvement, supporting informed business decisions aimed at optimizing sales strategies and enhancing customer experience.
+
+### MIT License
+This project is released under the [MIT License](https://github.com/Zhiweikau/Ecommerce_Sales_Data_Analysis/blob/main/LICENSE), permitting you to freely use, modify, and share the codebase, provided that the original license and copyright notice are retained.
+
+### Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zhi%20Wei%20Kau-blue?logo=linkedin)](https://www.linkedin.com/in/zhi-wei-kau-945338243/)
