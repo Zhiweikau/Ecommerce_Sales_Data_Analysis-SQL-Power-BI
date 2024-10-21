@@ -4,14 +4,14 @@
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Objectives](#obejectives) 
+- [Objectives](#objectives) 
 -	[Data Source](#data-source) 
 -	[Terminologies Used in Data](#terminologies-used-in-data) 
 -	[Methodology](#methodology) 
 -	[Tools and Technologies Used](#tools-and-technologies-used) 
 -	[KPI and Charting Requirement for Online Sales Analysis](#kpi-and-charting-requirement-for-online-sales-analysis)
 -	[Data Visualization Interfaces](#data-visualization-interfaces)
--	[Key Insights and Findings](#key-insight-and-findings)
+-	[Key Insights and Findings](#key-insights-and-findings)
 -	[Recommendations](#recommendations)
 -	[Getting Started](#getting-started)
 -	[Conclusion](#conclusion)
