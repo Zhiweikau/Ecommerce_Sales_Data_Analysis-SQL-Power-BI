@@ -3,6 +3,19 @@
 ![Main Image](https://github.com/user-attachments/assets/1ee290f5-3624-489e-903d-d6437bf6a346)
 
 ## Table of Contents
+- [Project Overview](project-overview)
+- [Objectives](obejectives) 
+-	[Data Source](data-source) 
+-	[Terminologies Used in Data](terminologies-used-in-data) 
+-	[Methodology](methodology) 
+-	[Tools and Technologies Used](tools-and-technologies-used) 
+-	[KPI and Charting Requirement for Online Sales Analysis](kpi-and-charting-requirement-for-online-sales-analysis)
+-	[Data Visualization Interfaces](data-visualization-interface)
+-	[Key Insights and Finding](key-insight-and-finding)
+-	[Recommendations](recommendations)
+-	[Getting Started](getting-started)
+-	[Conclusion](conclusion)
+-	[MIT License](mit-license)
 
 
 ### Project Overview
