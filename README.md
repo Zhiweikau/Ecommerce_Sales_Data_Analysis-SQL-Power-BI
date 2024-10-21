@@ -10,8 +10,8 @@
 -	[Methodology](#methodology) 
 -	[Tools and Technologies Used](#tools-and-technologies-used) 
 -	[KPI and Charting Requirement for Online Sales Analysis](#kpi-and-charting-requirement-for-online-sales-analysis)
--	[Data Visualization Interfaces](#data-visualization-interface)
--	[Key Insights and Finding](#key-insight-and-finding)
+-	[Data Visualization Interfaces](#data-visualization-interfaces)
+-	[Key Insights and Findings](#key-insight-and-findings)
 -	[Recommendations](#recommendations)
 -	[Getting Started](#getting-started)
 -	[Conclusion](#conclusion)
@@ -23,7 +23,7 @@ Owner of Madhav Store wants us to help them create a dashboard to track and anal
 
 ---
 
-### Objective
+### Objectives
 -	The objective of this project is to derive actionable insights related to sales transactions, customer behavior, and product performance across year 2018.
 -	The analysis spans various dimensions, including temporal (monthly trends, purchase dates), geographical (state level analysis), and categorical aspects (product categories, sub-categories, and payment modes). 
 -	By exploring these dimensions, the project aims to uncover patterns in sales performance, customer preferences, and profitability across different regions and product types, ultimately supporting data-driven decision-making.
