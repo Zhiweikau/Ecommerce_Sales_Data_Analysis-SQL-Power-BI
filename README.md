@@ -88,8 +88,8 @@ Dataset of Orders csv file:
 
 ---
 ### Tools and Technologies Used
-- SQL Server Management Sudio: Utilized for managing databases, executing queries, and performing data analysis. SQL queries played a vital role in extracting key metrics and insights from the online sales dataset, enabling effective data-driven analysis.
-- Power BI: A powerful data visualization and business intelligence tool used for creating interactive dashboards and reports. Power BI was utilized to transform the extracted data into visual insights, allowing for clear representation and analysis of key metrics. This enabled stakeholders to quickly interpret online sales trends, patterns, and performance indicators, facilitating informed decision-making.
+- <img src="https://github.com/Zhiweikau/Ecommerce_Sales_Data_Analysis-SQL-Power-BI/blob/main/Report%20Images/SSMS.png" alt="SSMS Icon" width="30" height="30"> SQL Server Management Sudio: Utilized for managing databases, executing queries, and performing data analysis. SQL queries played a vital role in extracting key metrics and insights from the online sales dataset, enabling effective data-driven analysis.
+- <img src="https://github.com/Zhiweikau/Ecommerce_Sales_Data_Analysis-SQL-Power-BI/blob/main/Report%20Images/Power%20BI.png" alt="SSMS Icon" width="30" height="30"> Power BI: A powerful data visualization and business intelligence tool used for creating interactive dashboards and reports. Power BI was utilized to transform the extracted data into visual insights, allowing for clear representation and analysis of key metrics. This enabled stakeholders to quickly interpret online sales trends, patterns, and performance indicators, facilitating informed decision-making.
 
 ---
 
