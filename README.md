@@ -151,6 +151,7 @@ Explore our online sales analysis project in-depth with our interactive data vis
   </tr>
 </table>
 
+[Power BI Dashboard](https://app.powerbi.com/groups/me/reports/fd94e7b9-a3b9-4fed-99e1-c1b2d9f37589/179358e6548615d00c41?experience=power-bi)
 ### Home page
 ![Dashboard_Home](https://github.com/user-attachments/assets/9a1bfa19-aa29-47ba-885d-348db92187b0)
 
